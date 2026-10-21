@@ -16,3 +16,5 @@ The change in max range is realized by modifying the burn time and fuel amount t
 
 As of right now, the max range of air-to-air missiles is the only parameter this mod touches. Expanded functionality may be added sooner, later, or whenever the stars align.
 While this mod's code is written entirely by AI, the concept and UI structure are my own vision, made into reality through the power of friendsh... vibecoding!
+
+This project is an unofficial community modification and is not affiliated with, sponsored by, or endorsed by Shockfront Studios Pty Ltd. Original Nuclear Option assets, vehicle designs, audio, and code are Copyright (c) 2026 Shockfront Studios Pty Ltd. All rights reserved. Nuclear Option and Shockfront Studios are trademarks or registered trademarks of Shockfront Studios Pty Ltd. Original mod content and all other trademarks belong to their respective owners.
